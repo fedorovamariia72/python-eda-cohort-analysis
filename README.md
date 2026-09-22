@@ -74,7 +74,7 @@ The notebook includes the full analytical workflow:
 - HTML report generation  
 
 **Link: Open in Google Colab**  
-*(You will add the link here)*
+*([Open in Google Colab](https://colab.research.google.com/drive/1TmLo7NynK0mSe6jeemlogWyesK-eVa6y?usp=sharing))*
 
 ---
 
