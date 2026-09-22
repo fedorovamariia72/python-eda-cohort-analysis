@@ -169,6 +169,3 @@ This project demonstrates:
 - Ability to present results as a polished portfolio project  
 
 ---
-
-Марія, цей README.md вже готовий для GitHub — структурований, чистий, професійний і повністю англійською.  
-Хочеш — можу зробити коротку версію для рекрутерів або додати GitHub‑бейджі.
