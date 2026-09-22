@@ -84,7 +84,7 @@ The project includes an exported HTML report — a static version of the analysi
 If GitHub Pages is enabled for this repository, the report can be viewed online.
 
 **Link: HTML Report — EDA & Customer Cohort Analysis**  
-*(You will add the link here)*
+*([Open HTML_report: EDA & Customer Cohort Analysis](https://fedorovamariia72.github.io/python-eda-cohort-analysis/))*
 
 ---
 
